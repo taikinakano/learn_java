@@ -1,5 +1,6 @@
 package Chapter11;
 
-public class Thing {
-
+public interface Thing {
+	double getWeight();
+	void setWeight(double weight);
 }

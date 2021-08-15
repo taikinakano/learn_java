@@ -10,7 +10,7 @@ public class Excercis12_2 {
 		array[0] = new A();
 		array[1] = new B();
 		for (Y y: array) {
-			y.b();
+			y.b();：
 		}
 	}
 }
